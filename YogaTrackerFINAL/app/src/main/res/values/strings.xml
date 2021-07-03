@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YogaTracker(COP4656)</string>
+    <string name="timerVal"> 0 </string>
+    <string name="Exit"> Exit </string>
+</resources>

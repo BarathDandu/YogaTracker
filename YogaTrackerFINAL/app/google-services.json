@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470246799538",
+    "project_id": "yogatrackercop4656",
+    "storage_bucket": "yogatrackercop4656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470246799538:android:7584bc7abe945cabb6f1ab",
+        "android_client_info": {
+          "package_name": "com.example.yogatrackercop4656"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470246799538-mi60iuld8lg9pt73n2ejcvjm58lgvhlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFVspF_spi2CS7YiQ7DCjAOaxgtV73ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470246799538-mi60iuld8lg9pt73n2ejcvjm58lgvhlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
